@@ -21,8 +21,10 @@ a {
   text-decoration: none;
 }
 
-section {
-  padding: 48px 0;
+.section {
+  padding: 30px;
+  padding-top: 30vh;
   overflow: hidden;
   scroll-margin-top: 70px;
+  border: 2px solid gray;
 }

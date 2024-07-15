@@ -1,0 +1,10 @@
+.header {
+    height: 90px;
+    transition: all .4s;
+    z-index: 99;
+}
+
+.header .sticked{
+    height: 70px;
+}
+
